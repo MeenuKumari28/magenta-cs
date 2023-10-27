@@ -1,14 +1,14 @@
 -- ftd.color base-:
-light: #FAE6FA
-dark: #311432
+light: #ffffff
+dark: #ffffff
 
 -- ftd.color step-1-:
 light: #e3bc81
 dark: #550605
 
 -- ftd.color step-2-:
-light: #faad7b
-dark: #3e0e11
+light: #43005d
+dark: #43005d
 
 -- ftd.color overlay-:
 light: rgba(0, 0, 0, 0.8)
@@ -26,7 +26,7 @@ overlay: $overlay-
 code: $code-
 
 -- ftd.color border-:
-light: #222222
+light: #f1e881
 dark: #FFFFFF
 
 -- ftd.color border-strong-:
@@ -34,11 +34,11 @@ light: #D9D9D9
 dark: #3e0306
 
 -- ftd.color text-:
-light: #707070
-dark: #D9D9D9
+light: #ffeded
+dark: #ffeded
 
 -- ftd.color text-strong-:
-light: #333333
+light: #FFFFFF
 dark: #FFFFFF
 
 -- ftd.color shadow-:
@@ -74,8 +74,8 @@ light: #a53006
 dark: #a53006
 
 -- ftd.color cta-primary-text-:
-light: #feffff
-dark: #feffff
+light: #f70647
+dark: #f70647
 
 -- ftd.color cta-primary-text-disabled-:
 light: #65b693
@@ -121,8 +121,8 @@ light: #F3A063
 dark: #F3A063
 
 -- ftd.color cta-secondary-text-:
-light: #FFFFFF
-dark: #FFFFFF
+light: #43005d
+dark: #43005d
 
 -- ftd.color cta-secondary-text-disabled-:
 light: #65b693
@@ -238,12 +238,12 @@ text-disabled: $cta-danger-text-disabled-
 border-disabled: $cta-danger-border-disabled-
 
 -- ftd.color accent-primary-:
-light: #a53006
-dark: #a53006
+light: #fac6d9
+dark: #fac6d9
 
 -- ftd.color accent-secondary-:
-light: #EF8435
-dark: #EF8435
+light: #301934
+dark: #301934
 
 -- ftd.color accent-tertiary-:
 light: #ffc136
